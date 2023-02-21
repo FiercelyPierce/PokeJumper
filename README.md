@@ -1,18 +1,14 @@
 # Overview
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+This is a simple little game that has you run around the screen, jumping to avoid the enemies that assail you.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+I used this to practice with pygame so I could understand it further and become familiar with it. I will be looking into other liberaries, but I decided to start with pygame since I knew of a couple of resourses already.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used the Python language with the Pygame library thoughout the process. 
 
 # Useful Websites
 
